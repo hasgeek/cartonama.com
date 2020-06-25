@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cartonama</title>
+  <link href="https://cartonama.com/"/>
+  <link rel="self" href="https://cartonama.com/feed"/>
+  <updated>2012-09-12T08:12:51Z</updated>
+  <id>https://cartonama.com/</id>
+  <icon>https://cartonama.com/_themes/cartonama2012/img/icon.png</icon>
+  <author><name>Cartonama</name></author>
+
+  
+  <entry>
+    <title type="text">Twitter hashtag chat with Henry Addo</title>
+    <id>https://cartonama.com/2012/twitter-hashtag-henry-addo</id>
+    <link href="https://cartonama.com/2012/twitter-hashtag-henry-addo"/>
+    <updated>2012-09-11T10:35:03Z</updated>
+    <published>2012-09-12T08:12:51Z</published>
+    <content type="html">
+      &lt;p&gt;In case you&#39;re new to it, a Twitter hashtag chat is a fun, easy way to talk with people across the world on an interesting topic. All you do is use the same hashtag in your tweets and follow along in your browser or client of choice. We&#39;re going to be using  the tag &lt;a href=&#34;search.twitter.com/search?q=#cartonama&#34; title=&#34;Twitter search: #cartonama&#34;&gt;#cartonama&lt;/a&gt; for today&#39;s chat.&lt;/p&gt;
+&lt;p&gt;Henry Addo will be joining us in chat today to talk about the state of crowd sourced tools and projects in the mapping and location data ecosystem. Henry is a software developer living in Accra, Ghana. He has worked as a software developer with several IT companies including Suuch Solutions, txtGhana, IDZ Ghana limited. Currently, Henry works at &lt;a href=&#34;http://ushahidi.com&#34; target=&#34;_blank&#34; title=&#34;Ushahidi&#34;&gt;Ushahidi&lt;/a&gt;, a non-profit tech company that specializes in developing free and open source software for &lt;a href=&#34;http://ushahidi.com/products/swiftriver-platform&#34; title=&#34;SwiftRiver allows you manage realtime data streams on the web (RSS, SMS, Twitter, Email).&#34;&gt;information collection&lt;/a&gt;, &lt;a href=&#34;http://ushahidi.com/products/ushahidi-platform&#34; title=&#34;Visualize information on a map and time-line with the Ushahidi Platform.&#34;&gt;visualization&lt;/a&gt; and &lt;a href=&#34;http://ushahidi.com/products/crowdmap&#34; title=&#34;Use Crowdmap to start an interactive map in under five minutes.&#34;&gt;interactive mapping&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;He is passionate about open technologies and has been instrumental in the evangelism and advocacy of the use of Free and Open Source Software in Ghana.&lt;/p&gt;
+    </content>
+  </entry>
+  <entry>
+    <title type="text">Hangout with Bill Morris</title>
+    <id>https://cartonama.com/2012/hangout-with-bill-morris</id>
+    <link href="https://cartonama.com/2012/hangout-with-bill-morris"/>
+    <updated>2012-08-28T13:58:06Z</updated>
+    <published>2012-09-12T08:12:34Z</published>
+    <content type="html">
+      &lt;p&gt;Join Bill Morris and other map data enthusiasts in a Google Hangout tonight at 7:30pm IST, 28 August 2012.&lt;/p&gt;
+&lt;p&gt;Bill is principal at &lt;a href=&#34;http://geosprocket.com/&#34; title=&#34;GeoSprocket&#34;&gt;GeoSprocket LLC&lt;/a&gt;, a multifaceted geospatial consulting firm. With over a decade of experience in geographic information science, remote sensing and cartography, he focuses on applying the strength of spatial relationships to real-world challenges in the areas of environmental resource conservation, agricultural management and international development.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://plus.google.com/hangouts/_/e4bffe6c2d8a71a305890b7cf9abf2d9b5ba9881?pqs=1&amp;amp;authuser=0&amp;amp;hl=en&#34; title=&#34;Hangout with Bill Morris&#34;&gt;Join the Hangout&lt;/a&gt; directly and post your questions in live chat or if you don&#39;t have a Google+ account you can watch the Hangout &lt;a href=&#34;http://www.youtube.com/watch?v=GdfkC7WFIbs&#34;&gt;live on YouTube&lt;/a&gt;.&lt;/p&gt;
+    </content>
+  </entry>
+</feed>
